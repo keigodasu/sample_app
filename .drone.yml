@@ -1,0 +1,5 @@
+pipeline:
+  test-job:
+    image: golang
+    commands:
+      - echo hello
